@@ -15,7 +15,7 @@ This ensures the game works correctly on other platforms.
 
 ## How to Run
 1. Install Pygame Zero: `pip install pgzero`
-2. Run the game: `python FlappyBird.py`
+2. Run the game: `pgzrun FlappyBird.py`
 
 ## Note on Code Quality
 This project was one of my earlier Python projects. While it works as intended, the code structure and organization may not reflect my current coding abilities.
